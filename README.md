@@ -22,6 +22,6 @@ Décompilation d'APK
 
 apktool d le.apk -o apkDecompile
 
-Recompilation d'APK
+Compilation d'APK
 
 apktool b apkDecompile le.apk
