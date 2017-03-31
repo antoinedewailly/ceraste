@@ -24,4 +24,4 @@ apktool d le.apk -o apkDecompile
 
 Compilation d'APK
 
-apktool b apkDecompile le.apk
+apktool b apkDecompile -o le.apk
